@@ -1,0 +1,3 @@
+import{G as e,I as t,R as n,S as r,b as i}from"../chunks/CpfU7dZw.js";import{n as a,t as o}from"../chunks/Bf80ypEW.js";var s=r(`<h1 class="text-3xl font-semibold tracking-tight">Privacy</h1> <p class="mt-6 leading-8 text-fg-muted">This site does not currently collect personal information, use analytics, or set tracking
+		cookies. A full privacy policy will be published here before we begin selling or collecting
+		email addresses.</p>`,1),c=r(`<!> <!>`,1);function l(r){var l=c(),u=t(l);a(u,{title:`Privacy — ITUNGARU`,description:`ITUNGARU privacy information.`,path:`/privacy`});var d=n(u,2);o(d,{class:`max-w-2xl py-24`,children:(t,n)=>{var r=s();e(2),i(t,r)},$$slots:{default:!0}}),i(r,l)}export{l as component};
